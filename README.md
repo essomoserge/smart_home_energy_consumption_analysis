@@ -1,10 +1,8 @@
-<h1>smart_home_energy_consumption_analysis</h1>
+<h2>Smart Home Energy Consumption Analysis</h2>
 
 <p>
 Data analytics project showcasing smart home energy consumption analysis using Python, MySQL, and Power BI to uncover usage patterns, peak demand, and abnormal consumption, supporting energy efficiency insights and data-driven decision-making.
 </p>
-
-<h2>Smart Home Energy Consumption Analysis</h2>
 
 <h3>📊 Overview</h3>
 <p>
