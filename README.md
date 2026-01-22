@@ -160,6 +160,6 @@ This project is for educational and portfolio purposes. Dataset sourced from Kag
 
 <h3>👤 Author</h3>
 <p>
-<strong>Your Name</strong><br>
-<a href="#">GitHub Profile</a> | <a href="#">LinkedIn Profile</a>
+<strong>Serge Essomo</strong><br>
+<a href="#">https://github.com/essomoserge</a> | <a href="#">https://www.linkedin.com/in/serge-essomo-5946b8142</a> | <a href="#">https://www.kaggle.com/sergio2cm</a>
 </p>
